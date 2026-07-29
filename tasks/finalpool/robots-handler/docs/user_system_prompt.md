@@ -1,1 +1,4 @@
-This is an user system prompt for robots-handler
+# User System Prompt
+
+## Note
+This is the optional user system prompt.

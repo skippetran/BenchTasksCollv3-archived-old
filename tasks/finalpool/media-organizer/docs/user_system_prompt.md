@@ -1,1 +1,4 @@
-This is an user system prompt for media-organizer
+# User System Prompt
+
+## Note
+This is the optional user system prompt.
