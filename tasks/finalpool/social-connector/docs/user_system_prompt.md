@@ -1,1 +1,4 @@
-This is an user system prompt for social-connector
+# User System Prompt
+
+## Note
+This is the optional user system prompt.
