@@ -1,1 +1,1 @@
-Initial workspace data for social-connector
+Initial workspace for social-connector
