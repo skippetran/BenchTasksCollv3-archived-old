@@ -1,1 +1,1 @@
-Initial workspace data for client-portal
+Initial workspace for client-portal
