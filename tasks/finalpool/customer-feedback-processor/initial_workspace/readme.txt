@@ -1,1 +1,1 @@
-Initial workspace data for customer-feedback-processor
+Initial workspace for customer-feedback-processor
