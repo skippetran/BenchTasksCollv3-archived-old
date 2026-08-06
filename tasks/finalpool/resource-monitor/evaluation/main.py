@@ -1,4 +1,4 @@
-# Evaluation script for social-connector
+# Evaluation script for resource-monitor
 
 def run_evaluation():
     return True
