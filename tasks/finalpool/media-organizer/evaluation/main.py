@@ -1,7 +1,12 @@
 # Evaluation script for media-organizer
 
 def run_evaluation():
+    # TODO: Implement actual evaluation logic
     return True
 
 if __name__ == '__main__':
-    print('Evaluation passed')
+    result = run_evaluation()
+    if result:
+        print('Evaluation passed')
+    else:
+        print('Evaluation failed')
