@@ -1,1 +1,4 @@
-This file must be non-empty and all English (no Chinese)
+# Agent System Prompt
+
+## General Requirements
+Please complete the implementation for social-connector in a beautiful way!
